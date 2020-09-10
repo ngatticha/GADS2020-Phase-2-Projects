@@ -1,5 +1,7 @@
 # GADS2020-Phase-2-Projects
-This repository contains 15 labs and 3 Lab Translations for GADS2020 Phase 2 projects
+This repository contains 15 labs and 3 Lab Translations for GADS2020 Phase 2 projects in the Google Cloud Platform Track<br/>
+Done by Tichaona Ngatiane.<br/>
+Email: ngattich@gmail.com
 
 # LIST OF CONTENTS
 ## Translations
